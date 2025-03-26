@@ -40,5 +40,3 @@ This project is **open-source** and available for educational use.
 For suggestions or improvements, feel free to contribute! 🚀  
 
 ---
-
-Let me know if you'd like specific details added! 😊
